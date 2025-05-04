@@ -26,7 +26,7 @@ Spring Boot Application that can do simple CRUD into mysql database via Endpoint
 ![database](.mdImage/database.png)
 
 - Edit <br />
--> Edit data in table using merge function in hibernate
+-> Edit data in table using merge function in hibernate <br />
 ![put](.mdImage/put.png) <br />
 ![put](.mdImage/databaseAfterEdit.png)
 
